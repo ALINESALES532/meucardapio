@@ -1,4 +1,4 @@
-body {background-image: url(https://elements-cover-images-0.imgix.net/277e0dc9-0f99-45ae-97ad-a2a0201ff142?auto=compress%2Cformat&fit=max&w=900&s=1a37481444c5081feb01ba5b686b7696); background-repeat: no-repeat; background-attachment:fixed; background-size:100% 100%; background-color: #e9e5e1; background-position: bottom; max-widht:100%; heigth:auto;}
+body {background-image: url(https://elements-cover-images-0.imgix.net/277e0dc9-0f99-45ae-97ad-a2a0201ff142?auto=compress%2Cformat&fit=max&w=900&s=1a37481444c5081feb01ba5b686b7696); background-repeat: no-repeat; background-attachment:fixed; background-size:100% 100%; background-color: #e9e5e1; background-position: bottom; max-width:100%; height:auto;}
 
 h1 {text-align: center;border-radius: 50px; background-color: rgb(198, 125, 35); width:40%; margin-top: 100px; margin-left: 50px;-webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);-ms-transform: rotate(-90deg);-o-transform: rotate(-90deg);filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); text-transform: uppercase; letter-spacing: 10px;position: fixed;}
 
