@@ -13,19 +13,20 @@ p {color: #080807; font-size:15px; font-family: Arial, Helvetica, sans-serif;}
 #btn {padding: 5px; margin-bottom:500px;}
 
 
-.formasdepag img {margin-left: 90px; width: 150px; margin-top:190px;}
 
-.imagepag1 img {width: 200px; margin-top:260px; margin-left:150px ; position: fixed;}
+.imagepag1 img {width: 200px; margin-top:-500px; margin-left:0px ; position:absolute;}
 
-.imagepag2 img {width: 235px; margin-top:320px; margin-left:80px ;position: fixed;}
+.imagepag2 img {width: 235px; margin-top:-450px; margin-left:-250px ;position:absolute;}
 
-.imagepag3 img {width: 105px; margin-top:420px; margin-left:140px ;position: fixed;}
+.imagepag3 img {width: 105px; margin-top:-320px; margin-left:-120px ;position:absolute; border-radius: 50px;}
+@media screen and (max-width:800px) and (min-width:200px) {
+.imagepag1 img {width: 140px; margin-left:-50px;} 
+.imagepag2 img {margin-left:-90px; margin-top: -380px;} 
+.imagepag3 img {margin-left: -30px; margin-top: -290px;} 
+}
 
-.titlogo img {width: 100px; margin-top:-108px; margin-left:-205px ;position:fixed;}
 
-
-
-.titutelefone {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;  background-color: rgba(0, 255, 98, 0.274);} 
+.titutelefone {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;  background-color: #00ff6246; padding: 0; margin: 0;} 
 
 
 
